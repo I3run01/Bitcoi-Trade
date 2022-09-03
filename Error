@@ -1,0 +1,4 @@
+https://lifesaver.codes/answer/binance-error-timestamp-for-this-request-was-1000ms-ahead-of-the-server-s-time-850
+
+To install ccxt
+    pip install ccxt --user
